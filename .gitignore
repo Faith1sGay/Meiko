@@ -3,5 +3,6 @@
 # Runtime
 /conf/config.json
 
-#RethinkDB
-/db/
+node_modules
+
+.git
